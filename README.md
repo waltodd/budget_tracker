@@ -1,5 +1,5 @@
 # budget_tracker
-![alt text](https://github.com/waltodd/budget_tracker/blob/assets/images/Cover.png?raw=true)
+![alt text](https://github.com/waltodd/budget_tracker/blob/main/assets/images/Cover.png?raw=true)
 
 A new Flutter project.
 
